@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyber_City_2099
+* source:	https://sketchfab.com/3d-models/cyber-city-2099-3b61335c2a004a9ea31c8dab59471222
+* author:	Animateria (https://sketchfab.com/Animateria)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyber_City_2099" (https://sketchfab.com/3d-models/cyber-city-2099-3b61335c2a004a9ea31c8dab59471222) by Animateria (https://sketchfab.com/Animateria) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
